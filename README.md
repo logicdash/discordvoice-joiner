@@ -2,6 +2,8 @@
 
 [Türkçe Açıklama İçin Tıklayın](#türkçe)
 
+VT [Virustotal] : https://www.virustotal.com/gui/file/0b1090e82709c105c48ed5519839d450504f78a1ddf70826baafacea8b678b7e?nocache=1
+
 An advanced, lightweight, and professional Python-based Discord bot designed to keep your account connected to a specific voice channel 24/7 and set a custom activity status. Perfect for maintaining presence, activity badges, or simple custom statuses.
 
 ## 🚀 Features
@@ -66,6 +68,8 @@ Automating user accounts (Self-botting) is against Discord's Terms of Service. U
 <a id="türkçe"></a>
 
 # 🇹🇷 Türkçe Açıklama
+
+VT [Virustotal] : https://www.virustotal.com/gui/file/0b1090e82709c105c48ed5519839d450504f78a1ddf70826baafacea8b678b7e?nocache=1
 
 Hesabınızı 7/24 ses kanalında tutan ve profilinize özel durum (Custom Status) ayarlayan profesyonel Python tabanlı Discord botu.
 
